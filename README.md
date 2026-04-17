@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ydzero0512&show_icons=true&theme=omni" />
-</p>
-
 ---
 
 ### 🚀 Tech Stack
